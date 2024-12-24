@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Footer() {
     return (
-        <div className="grid grid-rows-2 justify-items-center m-5 ">
+        <div className="grid grid-rows-2 justify-items-center m-5 fixed bottom-0 left-0 right-0  ">
             <div className='flex space-x-20'>   
             <img src="src/assets/bits-8bits.gif" alt="Pixel Cat Playing" className="w-16 h-16" />
             <img src="src/assets/bits-8bits (1).gif" alt="Pixel Cat Playing" className="w-16 h-16" />
