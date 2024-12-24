@@ -11,4 +11,10 @@
 
 body{
     background: #202225;
+
+
+}
+
+.custom-font{
+    font-family: "Montserrat Alternates", serif;
 }
